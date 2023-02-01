@@ -4,6 +4,6 @@ Le programme Matlab G7E_Accelerometre_SIMU.m est à placer dans le même dossier
 
 La visualisation des données a été effectué sur PowerBI. Les images de visualisation des données et des résultats sont consultables dans les fichiers Resultats_PowerBI.jpeg et Visualisation_PowerBI.jpeg :
 
-[](Visualisation_PowerBI.jpeg)
-[](Resultats_PowerBI.jpeg)
+![](Visualisation_PowerBI.jpeg)
+![](Resultats_PowerBI.jpeg)
 

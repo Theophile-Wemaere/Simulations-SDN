@@ -15,7 +15,7 @@ g=9.81  #Force de gravité terrestre
 
 print('--------Données obtenues graphiquemment--------\n')
 
-with open('montée_ascenseur_1.csv','r') as csvfile:
+with open('raw_data.csv','r') as csvfile:
     plots = csv.reader(csvfile, delimiter = ';')
     for row in plots:
         if (float(row[0]) > 11.7 and float(row[0]) < 23):
@@ -51,7 +51,7 @@ with open('montée_ascenseur_1.csv','r') as csvfile:
 
     
 
-with open('test_1(modif).csv','r') as csvfile:
+with open('raw_data.csv','r') as csvfile:
     plots = csv.reader(csvfile, delimiter = ';')
     nb_valeur_acceleration =0;
     nb_valeur_deceleration =0;
